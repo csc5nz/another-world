@@ -1,0 +1,28 @@
+# Written by MakeHuman 1.1.1
+version v1.1.1
+tags Protagonist
+camera 8.0 0.0 -0.0963346020569 -0.708364414818 0.185328380914 1.0625
+modifier macrodetails-universal/Muscle 0.000000
+modifier macrodetails/African 0.000000
+modifier macrodetails-proportions/BodyProportions 0.658000
+modifier macrodetails/Gender 0.768000
+modifier macrodetails-height/Height 0.652000
+modifier breast/BreastSize 0.500000
+modifier head/head-invertedtriangular 0.774000
+modifier macrodetails/Age 0.374000
+modifier breast/BreastFirmness 0.500000
+modifier macrodetails/Asian 0.000000
+modifier macrodetails/Caucasian 1.000000
+modifier head/head-rectangular 0.665000
+modifier macrodetails-universal/Weight 0.574000
+hair short02 c104cd4a-1edc-43f9-8b94-f63345a44638
+eyes HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6
+pose tpose.bvh
+clothes male_casualsuit06 be449715-fd7d-49d1-bca1-7fdd4264bc2d
+clothes shoes06 35abc230-ebaa-48d4-8ff7-6d84168291a0
+clothesHideFaces True
+expression sad02.mhpose
+skinMaterial skins/young_caucasian_female/young_caucasian_female.mhmat
+material short02 c104cd4a-1edc-43f9-8b94-f63345a44638 short02.mhmat
+material HighPolyEyes 2c12f43b-1303-432c-b7ce-d78346baf2e6 eyes/materials/brown.mhmat
+subdivide False
