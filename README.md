@@ -6,5 +6,7 @@ This project is a three minute animation short film abut a scientist performing 
 
 This short was created with the use of different techniques. The modeling was mostly done by sculpting polygon and nurb objects. The cell shading effect was created using the toon shader available in Maya. Even though the look seems simple it was actually difficult to get right because it took a lot of tweaking with the lightning and the different colors and shades. For the special effects water caustics, lightning, and glow were used. The animation was not only done with key framing, but also with simple MEL expressions. The motion capture data was not used because it was taken mostly for experience but also because I realized that the short I was planning to do, which was a different story, would have been about five minutes long which is too long based on the requirements. Finally, the rendered images were compiled using Quicktime and edited using Open Shot. Overall this project was challenging and very rewarding.
 
-[![Another World](https://img.youtube.com/vi/xsC_BPJDkRc/0.jpg)](https://www.youtube.com/watch?v=xsC_BPJDkRc) [![Another World](https://img.youtube.com/vi/xsC_BPJDkRc/1.jpg)](https://www.youtube.com/watch?v=xsC_BPJDkRc) [![Another World](https://img.youtube.com/vi/xsC_BPJDkRc/2.jpg)](https://www.youtube.com/watch?v=xsC_BPJDkRc)  
+[![Another World](https://img.youtube.com/vi/xsC_BPJDkRc/1.jpg)](https://www.youtube.com/watch?v=xsC_BPJDkRc)  
+[![Another World](https://img.youtube.com/vi/xsC_BPJDkRc/2.jpg)](https://www.youtube.com/watch?v=xsC_BPJDkRc)   
+[![Another World](https://img.youtube.com/vi/xsC_BPJDkRc/3.jpg)](https://www.youtube.com/watch?v=xsC_BPJDkRc)  
 
